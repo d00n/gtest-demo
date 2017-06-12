@@ -1,5 +1,5 @@
 IDIR=include
-CC=gcc
+CC=g++
 CFLAGS=-I$(IDIR) -std=c99
 CCFLAGS=-I$(IDIR)
 
